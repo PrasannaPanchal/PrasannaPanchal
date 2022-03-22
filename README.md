@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaPanchal&langs_count=100&theme=radical" />
 </a> </p></td>
     <td><a href="https://github.com/MainakRepositor">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasannaPanchaltor&show_icons=true&theme=merko&line_height=33&include_all_commits=true" alt="PrasannaPanchal"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasannaPanchal&show_icons=true&theme=merko&line_height=33&include_all_commits=true" alt="PrasannaPanchal"/>
 </a> </td>
   </tr>
   <tr>
